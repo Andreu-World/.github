@@ -6,7 +6,6 @@
 </p>
 Bienvenido a la sección de proyectos de Nuevas Tecnologías en Andreu World. A continuación se describen los proyectos actuales y sus recursos asociados.
 
-## Proyectos
-
+ 
  
 
